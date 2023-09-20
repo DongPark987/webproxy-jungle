@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "csapp.h": "c",
+        "semaphore.h": "c",
+        "sbuf.h": "c",
+        "time.h": "c",
+        "signal.h": "c",
+        "stat.h": "c"
+    }
+}
